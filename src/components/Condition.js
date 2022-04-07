@@ -1,3 +1,4 @@
+//this is how to make a conditional statement using useState hook
 import React, { useState } from "react";
 
 function Condition() {

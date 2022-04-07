@@ -1,3 +1,4 @@
+//this is how to make an increment/decrement button using useState hook
 import React, { useState } from "react";
 
 function Increment() {

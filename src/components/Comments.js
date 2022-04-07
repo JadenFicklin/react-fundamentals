@@ -1,3 +1,4 @@
+//this is how to make a comment section using useState hook
 import React, { useState } from "react";
 
 function Comments() {

@@ -1,3 +1,4 @@
+//class component
 import React, { Component } from "react";
 
 export class Classcomponent extends Component {
